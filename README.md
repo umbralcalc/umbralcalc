@@ -1,4 +1,4 @@
-### Past and present scientific projects
+### Past and present ideas
 
 - A collection of [20 published research papers in cosmology, epidemiology and statistical science](https://orcid.org/0000-0001-8778-006X).  
 - A multi-dimensional Langevin solver for [the IR dynamics of quantum fields in the early Universe](https://iopscience.iop.org/article/10.1088/1475-7516/2018/05/054). You can read the tutorial [here](https://nbviewer.jupyter.org/github/umbralcalc/nfield/blob/master/notebooks/example_run.ipynb).
