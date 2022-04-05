@@ -1,4 +1,4 @@
-### <a itemprop="sameAs" content="https://orcid.org/0000-0001-8778-006X" href="https://orcid.org/0000-0001-8778-006X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.5em" alt="ORCID iD icon"></a>  Past research projects
+### Past research projects <a itemprop="sameAs" content="https://orcid.org/0000-0001-8778-006X" href="https://orcid.org/0000-0001-8778-006X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.5em" alt="ORCID iD icon"></a>
 
 - A collection of [21 published research papers in cosmology, epidemiology and statistical science](https://orcid.org/0000-0001-8778-006X).
 - A multi-dimensional Langevin solver for [the IR dynamics of quantum fields in the early Universe](https://iopscience.iop.org/article/10.1088/1475-7516/2018/05/054). You can read the tutorial [here](https://nbviewer.jupyter.org/github/umbralcalc/nfield/blob/master/notebooks/example_run.ipynb).
