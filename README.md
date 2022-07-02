@@ -11,5 +11,7 @@
 
 ### Ongoing projects
 
-- An app which leverages [data-informed simulations of freshwater fish population dynamics](https://github.com/umbralcalc/anglersim) to gain more insight into how recreational angling policies can affect UK fish populations.
-- A [spatially-varying property market emulator](https://github.com/umbralcalc/propergo), which is being built using past and present data from the UK housing market. 
+- An app which leverages data-informed simulations of freshwater fish population dynamics to gain more insight into how recreational angling policies can affect UK fish populations.
+- A spatially-varying property market emulator, which is being built using past and present data from the UK housing market.
+- A data-driven rugby match prediction engine.
+- A spatial forest growth emulator.
