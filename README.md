@@ -12,6 +12,7 @@
 ### Ongoing projects
 
 - An app which leverages data-informed simulations of freshwater fish population dynamics to gain more insight into how recreational angling policies can affect UK fish populations.
+- A framework to generate samples from a very general class of multidimensional stochastic processes.
 - A spatially-varying property market emulator, which is being built using past and present data from the UK housing market.
 - A data-driven rugby match prediction engine.
 - A spatial forest growth emulator.
