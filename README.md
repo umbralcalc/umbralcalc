@@ -13,5 +13,6 @@
 
 - An app which leverages data-informed simulations of freshwater fish population dynamics to gain more insight into how recreational angling policies can affect UK fish populations.
 - A spatially-varying property market emulator, which is being built using past and present data from the UK housing market.
+- A toolkit for inferring Q-Hawkes networks from arbitrary datasets.
 - A data-driven rugby match prediction engine.
 - A spatial forest growth emulator.
