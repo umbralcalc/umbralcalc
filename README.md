@@ -1,10 +1,10 @@
-Hello there! 
+**Hello there!** 
 
 **Here are my other profiles:** 
 ORCID:  <a itemprop="sameAs" content="https://orcid.org/0000-0001-8778-006X" href="https://orcid.org/0000-0001-8778-006X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:4.5em" alt="ORCID iD icon"></a>
 Linkedin: <a itemprop="sameAs" content="https://uk.linkedin.com/in/robert-hardwick-1179041aa" href="https://uk.linkedin.com/in/robert-hardwick-1179041aa" target="linkedin.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://i.stack.imgur.com/gVE0j.png" style="width:4.5em" alt="LinkedIn icon"></a> 
 
-**Here are some of my past projects:**
+**and here are some of my past projects:**
 
 - A collection of [21 published research papers in cosmology, epidemiology and statistical science](https://orcid.org/0000-0001-8778-006X).
 - A multi-dimensional Langevin solver for [the IR dynamics of quantum fields in the early Universe](https://iopscience.iop.org/article/10.1088/1475-7516/2018/05/054). You can read the tutorial [here](https://nbviewer.jupyter.org/github/umbralcalc/nfield/blob/master/notebooks/example_run.ipynb).
