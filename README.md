@@ -1,8 +1,7 @@
 **Hello there!** 
 
-**Here are my other profiles:** 
-- ORCID:  <a itemprop="sameAs" content="https://orcid.org/0000-0001-8778-006X" href="https://orcid.org/0000-0001-8778-006X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:4.5em" alt="ORCID iD icon"></a>
-- Linkedin: <a itemprop="sameAs" content="https://uk.linkedin.com/in/robert-hardwick-1179041aa" href="https://uk.linkedin.com/in/robert-hardwick-1179041aa" target="linkedin.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://i.stack.imgur.com/gVE0j.png" style="width:4.5em" alt="LinkedIn icon"></a> 
+**Here are my other profiles:** <a itemprop="sameAs" content="https://orcid.org/0000-0001-8778-006X" href="https://orcid.org/0000-0001-8778-006X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:4.5em" alt="ORCID iD icon"></a>
+<a itemprop="sameAs" content="https://uk.linkedin.com/in/robert-hardwick-1179041aa" href="https://uk.linkedin.com/in/robert-hardwick-1179041aa" target="linkedin.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://i.stack.imgur.com/gVE0j.png" style="width:4.5em" alt="LinkedIn icon"></a> 
 
 **and here are some of my past projects:**
 
