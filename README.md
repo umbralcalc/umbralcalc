@@ -21,4 +21,4 @@
 
 :money_with_wings: Interested in some of the more detailed modelling approaches to financial market behaviour, I then built an agent-based [microsimulation of limit order books for financial markets](https://nbviewer.org/github/umbralcalc/lobsim/blob/main/LOB_simulation.ipynb) inspired by extensions to the Santa Fe model. This simulation could potentially be adapted in future to model data from real books.
 
-:notebook: Most recently, I am continually contributing to a living web book of projects exploring the wondrous world of stochastic phenomena, including software designs for their simulation, statistical inference and control: [https://umbralcalc.github.io/diffusing-ideas/](https://umbralcalc.github.io/diffusing-ideas/).
+:notebook: Most recently, I am continually contributing to a living web book of projects exploring the wondrous world of stochastic phenomena, including software designs for their simulation, statistical inference and control: [https://umbralcalc.github.io/](https://umbralcalc.github.io/).
