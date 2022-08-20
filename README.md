@@ -1,4 +1,4 @@
-**Hello there!** 
+**Hello there!** :wave: 
 
 I'm a multidisciplinary simulation builder and data scientist with expertise in stochastic phenomena and Bayesian methodology.
 
