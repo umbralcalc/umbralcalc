@@ -12,7 +12,7 @@ I'm a multidisciplinary simulation builder and data scientist with expertise in 
 
 :nerd_face: During my academic research years, I had the opportunity to write/co-write a collection of [22 published research papers in cosmology, epidemiology and statistical science](https://orcid.org/0000-0001-8778-006X).
 
-:fireworks: During my PhD studies, I wrote a multi-dimensional Langevin solver for [the IR dynamics of quantum fields in the early Universe](https://iopscience.iop.org/article/10.1088/1475-7516/2018/05/054). You can read the tutorial [here](https://nbviewer.jupyter.org/github/umbralcalc/nfield/blob/master/notebooks/example_run.ipynb).
+:fireworks: As part of my PhD studies, I wrote a multi-dimensional Langevin solver for [the IR dynamics of quantum fields in the early Universe](https://iopscience.iop.org/article/10.1088/1475-7516/2018/05/054). You can read the tutorial [here](https://nbviewer.jupyter.org/github/umbralcalc/nfield/blob/master/notebooks/example_run.ipynb).
 
 :telescope: Also during this time, I built a new Bayesian toolkit for [designing optimal scientific experiments with a range of utilities](https://iopscience.iop.org/article/10.1088/1475-7516/2018/05/070). You can read the tutorial [here](https://nbviewer.jupyter.org/github/umbralcalc/foxi/blob/master/foxiscripts/5D_example.ipynb).
 
