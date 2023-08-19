@@ -1,6 +1,6 @@
 **Hello there!** :wave: 
 
-I'm a multidisciplinary simulation builder and data scientist with expertise in stochastic phenomena and Bayesian methodology.
+I'm a multidisciplinary simulation builder and data scientist with expertise in stochastic phenomena and Bayesian methodology. I also like to [create some human art](https://umbralcalc.github.io/human-art/) 🖌️ every now and then.
 
 **Here are the other profiles that I maintain:** 
 
