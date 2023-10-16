@@ -22,10 +22,14 @@ I'm a multidisciplinary simulation builder and data scientist with expertise in 
 
 :petri_dish: A simulation and inference framework for [forecasting the effect of mass drug administration on helminth disease transmission](https://www.sciencedirect.com/science/article/pii/S1755436521000013). Much of the inference theory is covered by this [notebook](https://nbviewer.jupyter.org/github/umbralcalc/helmpy/blob/master/notebooks/helmpy_inference.ipynb). You can also read the simulation tutorial [here](https://nbviewer.jupyter.org/github/umbralcalc/helmpy/blob/master/notebooks/helmpy_examples.ipynb).
 
-:mask:A very simple [COVID-19 simulation where the basic theory is extended to account for heterogeneous transmission events](https://nbviewer.jupyter.org/github/umbralcalc/covid-simple/blob/master/covid-simple.ipynb). You can find out more on the theory and inference of these models [here](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/).
+:mask: A very simple [COVID-19 simulation where the basic theory is extended to account for heterogeneous transmission events](https://nbviewer.jupyter.org/github/umbralcalc/covid-simple/blob/master/covid-simple.ipynb). You can find out more on the theory and inference of these models [here](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/).
 
 :test_tube: A framework for the [simulation and fast inference of multi-state models with a counting memory](https://nbviewer.jupyter.org/github/umbralcalc/pneumoinfer/blob/master/notebooks/theory-docs.ipynb). This is applied to the pneumococcal carriage process using this [model](https://science.sciencemag.org/content/335/6074/1376.long).
 
 :chart: A toolkit for building some [simple Bayesian networks to model generic n-dimensional time series data](https://nbviewer.jupyter.org/github/umbralcalc/bants/blob/master/notes/theory-notes.ipynb). This comes with some example [implementation notebooks](https://nbviewer.jupyter.org/github/umbralcalc/bants/blob/master/example/example_ARGP_bants_application.ipynb) which apply the networks to mock data. 
 
 :money_with_wings: An agent-based [microsimulation of limit order books for financial markets](https://nbviewer.org/github/umbralcalc/lobsim/blob/main/LOB_simulation.ipynb) inspired by extensions to the Santa Fe model. This simulation could potentially be adapted in future to model data from real books.
+
+:zap: A fully generalised, highly configurable, [stochastic simulation framework](https://github.com/umbralcalc/stochadex) written with a concurrent backend architecture and a frontend dashboard for visualisation.
+
+:computer: A concurrent, generalised, [online learning and MAP inference framework](https://github.com/umbralcalc/learnadex) which accompanies a RESTful API to query the results from. There's also a dashboard app for viewing API queries.
