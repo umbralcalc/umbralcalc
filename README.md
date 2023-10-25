@@ -2,7 +2,7 @@
 
 * I'm a professional data scientist and research engineer whose worked on a wide variety of problems and data.
 * I've got an overall interest and expertise in all things stochastic and statistical.
-* My work experience is in astrophysics and cosmology, epidemiology, sports betting and traffic control.
+* My work experience is in statistics, cosmology, epidemiology, sports betting and traffic control.
 * I also like to [create some human art](https://umbralcalc.github.io/human-art/) 🖌️ every now and then.
 
 **What am I doing on GitHub at the moment?**
