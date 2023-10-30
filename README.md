@@ -7,7 +7,7 @@
 
 **What am I doing on GitHub at the moment?**
 
-:black_nib: I'm co-authoring [an open source book](https://github.com/umbralcalc/diffusing-ideas) which documents an ongoing project to create generalised software to control noisy real-world systems. You can download the latest version for free [from this website](https://umbralcalc.github.io/diffusing-ideas/).
+:black_nib: I'm co-authoring [an open source book](https://github.com/umbralcalc/diffusing-ideas) which documents an ongoing project to create generalised software for controlling noisy real-world systems. You can download the latest version for free [from this website](https://umbralcalc.github.io/diffusing-ideas/).
 
 **Here are the other profiles that I maintain:** 
 
