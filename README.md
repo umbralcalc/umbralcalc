@@ -7,7 +7,7 @@
 
 **What am I doing on GitHub at the moment?**
 
-:black_nib: I'm co-authoring [an open source book](https://github.com/umbralcalc/worlds-of-observation) which documents an ongoing project to create generalised software environments for training machine learning systems. You can download the latest version for free [from this website](https://umbralcalc.github.io/worlds-of-observation/).
+:black_nib: I'm co-authoring [an open source book](https://github.com/umbralcalc/worlds-of-observation) which documents an ongoing project to create more realistic environments for training machine learning systems. You can download the latest version for free [from this website](https://umbralcalc.github.io/worlds-of-observation/).
 
 **Here are the other profiles that I maintain:** 
 
