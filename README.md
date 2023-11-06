@@ -11,7 +11,7 @@
 
 **Here are the other profiles that I maintain:** 
 
-<a itemprop="sameAs" content="https://orcid.org/0000-0001-8778-006X" href="https://orcid.org/0000-0001-8778-006X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:4.5em" alt="ORCID iD icon"></a> ORCID profile for my research projects
+<a itemprop="sameAs" content="https://orcid.org/0000-0001-8778-006X" href="https://orcid.org/0000-0001-8778-006X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:4.5em" alt="ORCID iD icon"></a> ORCID profile for my research publications
 
 <a itemprop="sameAs" content="https://uk.linkedin.com/in/robert-hardwick-1179041aa" href="https://uk.linkedin.com/in/robert-hardwick-1179041aa" target="linkedin.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://i.stack.imgur.com/gVE0j.png" style="width:4.5em" alt="LinkedIn icon"></a> LinkedIn profile for my professional background
 
