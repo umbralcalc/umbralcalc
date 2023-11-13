@@ -1,8 +1,8 @@
 **Hello there!** :wave: 
 
-* I'm a professional software research engineer and simulation builder who has worked in a wide variety of problem domains.
+* I'm a professional software research engineer and simulation builder with experience in many problem domains.
 * I've got an overall interest and expertise in all things stochastic and statistical.
-* My work experience is in statistics, cosmology, epidemiology, sports betting and traffic control.
+* My domain knowledge includes statistics, physics (cosmology), epidemiology, sports betting and traffic control.
 * I also like to [create some human art](https://umbralcalc.github.io/human-art/) 🖌️ every now and then.
 
 **What am I doing on GitHub at the moment?**
