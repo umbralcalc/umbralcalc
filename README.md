@@ -1,6 +1,6 @@
 **Hello there!** :wave: 
 
-* I'm a professional software research engineer and simulation builder with experience in many problem domains.
+* I'm a professional research engineer and simulation builder with experience in many problem domains.
 * My expertise is in Bayesian statistics, machine learning methods and all things stochastic.
 * My domain knowledge includes statistics, physics (cosmology), epidemiology, sports betting and traffic control.
 * I also like to [create some human art](https://umbralcalc.github.io/human-art/) 🖌️ every now and then.
