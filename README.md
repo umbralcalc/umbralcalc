@@ -1,3 +1,7 @@
+[![Orchid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8778-006X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/robert-hardwick-1179041aa)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YA2x6REAAAAJ&hl=en)
+
 **Hello there!** :wave:
 
 * I'm a professional research engineer and simulation builder with experience in many problem domains.
@@ -8,12 +12,6 @@
 **What am I doing on GitHub at the moment?**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=worlds-of-observation)](https://github.com/umbralcalc/worlds-of-observation)
-
-**Here are the other profiles that I maintain:** 
-
-<a itemprop="sameAs" content="https://orcid.org/0000-0001-8778-006X" href="https://orcid.org/0000-0001-8778-006X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em" alt="ORCID iD icon"></a> ORCID profile for my research publications
-
-<a itemprop="sameAs" content="https://uk.linkedin.com/in/robert-hardwick-1179041aa" href="https://uk.linkedin.com/in/robert-hardwick-1179041aa" target="linkedin.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://i.stack.imgur.com/gVE0j.png" style="width:1em" alt="LinkedIn icon"></a> LinkedIn profile for my professional background
 
 **Here are some of my past projects:**
 
