@@ -1,8 +1,4 @@
-<img src="./assets/hand.png" style="width:6em" alt="wave">
-
-# Robert J. Hardwick
-
-**Hello there!**
+**Hello there!** :wave:
 
 * I'm a professional research engineer and simulation builder with experience in many problem domains.
 * My expertise is in Bayesian statistics, machine learning methods and all things stochastic.
