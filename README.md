@@ -25,3 +25,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=lobsim)](https://github.com/umbralcalc/lobsim)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=stochadex)](https://github.com/umbralcalc/stochadex)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=learnadex)](https://github.com/umbralcalc/learnadex)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=dennm-torch)](https://github.com/umbralcalc/dennm-torch)
