@@ -12,7 +12,7 @@
 
 **What am I doing on GitHub at the moment?**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=worlds-of-observation)](https://github.com/umbralcalc/worlds-of-observation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=worlds-of-observation)](https://umbralcalc.github.io/worlds-of-observation)
 
 **Here are some of my past projects:**
 
