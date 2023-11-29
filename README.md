@@ -26,7 +26,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=stochadex)](https://github.com/umbralcalc/stochadex)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=learnadex)](https://github.com/umbralcalc/learnadex)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=dennm-torch)](https://github.com/umbralcalc/dennm-torch)
-
-**Language stats:**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umbralcalc&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&langs_count=8)
