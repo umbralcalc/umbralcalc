@@ -17,8 +17,6 @@
 
 **Here are some of my past projects:**
 
-A collection of [22 published research papers](https://orcid.org/0000-0001-8778-006X) in cosmology, epidemiology and statistical science.
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=nfield)](https://github.com/umbralcalc/nfield)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=foxi)](https://github.com/umbralcalc/foxi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umbralcalc&repo=helmpy)](https://github.com/umbralcalc/helmpy)
