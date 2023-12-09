@@ -8,5 +8,5 @@
 * I'm a professional research engineer and simulation builder with experience in many problem domains.
 * My expertise is in Bayesian statistics, machine learning methods and all things stochastic.
 * My domain knowledge includes statistics, physics (cosmology), epidemiology, sports betting and traffic control.
-* In my free time I write technical books and articles and publish them in this repository: [https://umbralcalc.github.io/](https://umbralcalc.github.io/).
+* In my free time I develop code and write in this technical article repository: [https://umbralcalc.github.io/](https://umbralcalc.github.io/).
 * I also like to [create some human art](https://umbralcalc.github.io/human-art/) 🖌️ every now and then.
