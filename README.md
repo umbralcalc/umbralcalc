@@ -9,4 +9,12 @@
 * My expertise is in Bayesian statistics, machine learning methods and all things stochastic.
 * My domain knowledge includes statistics, physics (cosmology), epidemiology, sports betting and traffic control.
 * In my free time I develop code and write in this technical article repository: [umbralcalculations](https://umbralcalc.github.io/).
-* I also like to create [games for python programmers](https://umbralcalc.github.io/dexetera/) and [human-drawn webcomics](https://umbralcalc.github.io/eddys-of-the-lethe/).
+* I also like to create [games for python programmers](https://umbralcalc.github.io/dexetera/) and pastel paintings...
+
+<img src="https://github.com/user-attachments/assets/2830d9f9-fbee-4442-9bf9-cb32e9c5b070" alt="beach" width="400"/>
+<img src="https://github.com/user-attachments/assets/aad6b073-8f95-44fa-a122-d1929f4a8e19" alt="tree" width="400"/>
+<img src="https://github.com/user-attachments/assets/89ec393b-2f1c-4b2b-b60e-61dea5ba6f39" alt="sunset" width="400"/>
+<img src="https://github.com/user-attachments/assets/6780fa9a-e135-4503-b9dd-cd74392133c1" alt="planet" width="300"/>
+
+
+
