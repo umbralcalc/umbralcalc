@@ -11,6 +11,7 @@
 * In my free time I develop code and write in this technical article repository: [umbralcalculations](https://umbralcalc.github.io/).
 * I also like to create [games for python programmers](https://umbralcalc.github.io/dexetera/) and pastel paintings...
 
+<img src="https://github.com/user-attachments/assets/974ad02d-d03f-4dff-bd39-880fc190f20d" alt="wolf" width="300"/>
 <img src="https://github.com/user-attachments/assets/2830d9f9-fbee-4442-9bf9-cb32e9c5b070" alt="beach" width="400"/>
 <img src="https://github.com/user-attachments/assets/aad6b073-8f95-44fa-a122-d1929f4a8e19" alt="tree" width="400"/>
 <img src="https://github.com/user-attachments/assets/89ec393b-2f1c-4b2b-b60e-61dea5ba6f39" alt="sunset" width="400"/>
