@@ -9,7 +9,7 @@
 * My expertise is in Bayesian statistics, machine learning methods and all things stochastic.
 * My domain knowledge includes statistics, physics (cosmology), epidemiology, sports betting and traffic control.
 * In my free time I develop code and write in this technical article repository: [umbralcalculations](https://umbralcalc.github.io/).
-* I also like to create [games for python programmers](https://umbralcalc.github.io/dexetera/) and pencil/pastel sketches...
+* I also like to create [games for python programmers](https://umbralcalc.github.io/dexetera/) and pencil/pastel/ink sketches...
 
 <img src="https://github.com/user-attachments/assets/974ad02d-d03f-4dff-bd39-880fc190f20d" alt="wolf" width="100"/>
 <img src="https://github.com/user-attachments/assets/2830d9f9-fbee-4442-9bf9-cb32e9c5b070" alt="beach" width="130"/>
@@ -18,6 +18,7 @@
 <img src="https://github.com/user-attachments/assets/aad6b073-8f95-44fa-a122-d1929f4a8e19" alt="tree" width="110"/>
 <img src="https://github.com/user-attachments/assets/5e987aaf-008b-49f2-85c1-a161218fd9c0" alt="swan" width="110"/>
 <img src="https://github.com/user-attachments/assets/d7d5ee4b-635a-4f81-a1ae-9d8a31115ed8" alt="towel" width="130"/>
+<img src="https://github.com/user-attachments/assets/5ef87b3a-27e2-45e7-966b-4193c9db76b1" alt="horse" width="130"/>
 <img src="https://github.com/user-attachments/assets/89ec393b-2f1c-4b2b-b60e-61dea5ba6f39" alt="sunset" width="130"/>
 <img src="https://github.com/user-attachments/assets/d58323f0-8ed8-48db-a01a-48f70264e23a" alt="hand" width="100"/>
 
