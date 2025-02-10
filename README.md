@@ -22,6 +22,6 @@
 <img src="https://github.com/user-attachments/assets/d7d5ee4b-635a-4f81-a1ae-9d8a31115ed8" alt="towel" width="130"/>
 <img src="https://github.com/user-attachments/assets/5ef87b3a-27e2-45e7-966b-4193c9db76b1" alt="horse" width="130"/>
 <img src="https://github.com/user-attachments/assets/89ec393b-2f1c-4b2b-b60e-61dea5ba6f39" alt="sunset" width="130"/>
+<img src="https://github.com/user-attachments/assets/c19a9dac-9182-465e-b253-af7e71b370b1" alt="bear" width="140"/>
 <img src="https://github.com/user-attachments/assets/d58323f0-8ed8-48db-a01a-48f70264e23a" alt="hand" width="100"/>
 <img src="https://github.com/user-attachments/assets/517d04d1-2986-48c8-80c2-e840d58d912b" alt="snake" width="170"/>
-
