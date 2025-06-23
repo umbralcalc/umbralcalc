@@ -5,11 +5,18 @@
 
 **Hello there!** :wave:
 
-* I'm a simulation engineer and decision engineer with experience in many problem domains.
-* My expertise is in Bayesian statistics, machine learning methods and all things stochastic.
-* My domain knowledge includes statistics, physics (cosmology), epidemiology, sports betting and traffic control.
-* In my free time I develop code and write in this technical article repository: [umbralcalculations](https://umbralcalc.github.io/).
-* I also like to create [games for python programmers](https://umbralcalc.github.io/dexetera/) and pencil/pastel/ink sketches...
+I'm an expert in Python/Go/Rust simulations and decision engineering.
+
+As a decision engineer, I've worked to: 
+  * Optimise decisions between future cosmological surveys to select between physics models.
+  * Recommend mass drug administration policies that maximise the chance of disease elimination.
+  * Improve betting decisions based on simulated cricket match predictions.
+  * Optimise traffic light  control behaviour to improve the flow of multi-modal traffic.
+  * Build a generalised platform for a wide variety of business decision-making problems.
+    
+In my free time I develop code and write in this technical article repository: [umbralcalculations](https://umbralcalc.github.io/).
+
+I also like to create [games for python programmers](https://umbralcalc.github.io/dexetera/) and pencil/pastel/ink sketches...
 
 <img src="https://github.com/user-attachments/assets/974ad02d-d03f-4dff-bd39-880fc190f20d" alt="wolf" width="100"/>
 <img src="https://github.com/user-attachments/assets/2830d9f9-fbee-4442-9bf9-cb32e9c5b070" alt="beach" width="130"/>
