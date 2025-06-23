@@ -7,12 +7,12 @@
 
 I'm an expert in Python/Go/Rust simulations and decision engineering.
 
-As a decision engineer, I've worked to: 
-  * Optimise decisions between future cosmological surveys to select between physics models.
-  * Recommend mass drug administration policies that maximise the chance of disease elimination.
-  * Improve betting decisions based on simulated cricket match predictions.
-  * Optimise traffic light  control behaviour to improve the flow of multi-modal traffic.
-  * Build a generalised platform for a wide variety of business decision-making problems.
+As a decision engineer, I've worked to:
+* Build a generalised platform for a wide variety of business decision-making problems.
+* Optimise traffic light control behaviour to improve the flow of multi-modal traffic.
+* Improve betting decisions based on simulated cricket match predictions.
+* Recommend mass drug administration policies that maximise the chance of disease elimination.
+* Optimise decisions between future cosmological surveys to select between physics models.
     
 In my free time I develop code and write in this technical article repository: [umbralcalculations](https://umbralcalc.github.io/).
 
