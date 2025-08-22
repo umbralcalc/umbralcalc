@@ -14,7 +14,7 @@ As a decision engineer, I've worked to:
 * Recommend mass drug administration policies that maximise the chance of disease elimination.
 * Optimise decisions between future cosmological surveys to select between physics models.
     
-In my free time I develop code and write in this technical article repository: [umbralcalculations](https://umbralcalc.github.io/).
+In my free time I develop code and [write technical docs](https://umbralcalc.github.io/stochadex).
 
 I also like to create [games for python programmers](https://umbralcalc.github.io/dexetera/) and pencil/pastel/ink sketches...
 
