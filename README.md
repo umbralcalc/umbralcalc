@@ -5,14 +5,14 @@
 
 **Hello there!** :wave:
 
-I'm an expert in creating Intelligent Decision-Making technologies with Python/Go/Rust simulations.
+I am an expert in creating Intelligent Decision-Making technologies with Python/Go/Rust simulations.
 
-I've worked to:
-* Build a generalised platform for a wide variety of business decision-making problems.
-* Optimise traffic light control behaviour to improve the flow of multi-modal traffic.
-* Improve betting decisions based on simulated cricket match predictions.
-* Recommend mass drug administration policies that maximise the chance of disease elimination.
-* Optimise decisions between future cosmological surveys to select between physics models.
+Decision-Making technologies I have worked on include:
+* Building a generalised platform for a wide variety of business decision-making problems.
+* Optimising traffic light control behaviour to improve the flow of multi-modal traffic.
+* Improving betting decisions based on simulated cricket match predictions.
+* Recommending mass drug administration policies that maximise the chance of disease elimination.
+* Optimising cosmological survey decisions to maximise the detection of physics models.
     
 In my free time I develop code and [write technical docs](https://umbralcalc.github.io/stochadex).
 
