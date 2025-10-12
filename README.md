@@ -5,9 +5,9 @@
 
 **Hello there!** :wave:
 
-I'm an expert in Python/Go/Rust simulations and decision engineering.
+I'm an expert in Python/Go/Rust simulations and creating decision-making technologies.
 
-As a decision engineer, I've worked to:
+I've worked to:
 * Build a generalised platform for a wide variety of business decision-making problems.
 * Optimise traffic light control behaviour to improve the flow of multi-modal traffic.
 * Improve betting decisions based on simulated cricket match predictions.
