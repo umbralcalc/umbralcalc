@@ -5,7 +5,7 @@
 
 **Hello there!** :wave:
 
-I'm an expert in Python/Go/Rust simulations and creating decision-making technologies.
+I'm an expert in creating decision-making technologies with Python/Go/Rust simulations.
 
 I've worked to:
 * Build a generalised platform for a wide variety of business decision-making problems.
