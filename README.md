@@ -7,7 +7,7 @@
 
 I am an expert in engineering intelligent decision-making technologies with Python/Go/Rust simulations.
 
-Decision-making technologies I have worked on include:
+Technologies I have worked on include:
 * Building a generalised platform for a wide variety of business decision-making problems.
 * Optimising traffic light control behaviour to improve the flow of multi-modal traffic.
 * Improving betting decisions based on simulated cricket match predictions.
