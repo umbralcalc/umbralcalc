@@ -14,6 +14,4 @@ Technologies I have worked on include:
 * Recommending mass drug administration policies that maximise the opportunity for disease elimination.
 * Optimising cosmological survey decisions to increase the chance of detecting physics models.
     
-In my free time I develop code and [write technical docs](https://umbralcalc.github.io/stochadex).
-
-I also like to create [games for python programmers](https://umbralcalc.github.io/dexetera/) and pencil/pastel/ink artwork.
+In my free time I develop code and [write/draw here](https://umbralcalc.github.io/).
