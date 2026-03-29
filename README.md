@@ -5,7 +5,7 @@
 
 **Hello there!** :wave:
 
-I am an expert in engineering intelligent decision-making technologies with Python/Go/Rust simulations.
+I am an expert in engineering intelligent decision-making technologies backed by AI models and simulations.
 
 Technologies I have worked on include:
 * Building a generalised platform for a wide variety of business decision-making problems.
