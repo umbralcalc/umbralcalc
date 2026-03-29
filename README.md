@@ -13,5 +13,3 @@ Technologies I have worked on include:
 * Improving betting decisions based on simulated cricket match predictions.
 * Recommending mass drug administration policies that maximise the opportunity for disease elimination.
 * Optimising cosmological survey decisions to increase the chance of detecting physics models.
-    
-In my free time I develop code and [write/draw here](https://umbralcalc.github.io/).
